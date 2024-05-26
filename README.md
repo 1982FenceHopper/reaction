@@ -12,4 +12,5 @@ Technologies Used:
   * Aceternity UI - UI
 
 Copyright 2024 1982FenceHopper, All Rights Reserved Under MIT License
+
 All Audio Rights Belong To Their Respective Owners/Authors.
